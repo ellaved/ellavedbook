@@ -1,19 +1,10 @@
 ---
-layout: post
-title: 分享默认主题下自用的一些代码片段
-date: '2024-07-18 10:36:05'
-permalink: /post/share-some-code-fragments-of-self-use-under-the-default-theme-g2sae.html
-published: true
+
 ---
 
 # 分享默认主题下自用的一些代码片段
 
----
 
-* 分享默认主题下自用的一些代码片段 - 链滴
-* [https://ld246.com/article/1721269102151](https://ld246.com/article/1721269102151)
-* 标题级别显示 div[data-subtype^='h1']:not([type])>div:first-child:after{ content:' 1'; font-size:0.7em; opacity: 0.4; } div[data-subtype^='h2']>div:first-child:a
-* 2024-07-18 10:36:05
 
 ---
 
@@ -58,7 +49,7 @@ div[data-subtype^="h6"]>div:first-child:after{
 ​
 ```
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-Gh73bgo-20240718103605-qryvuhp.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-Gh73bgo-20240718103605-qryvuhp.png)​
 
 733 x 651
 
@@ -94,7 +85,7 @@ span:not([class="katex"]) :not([class="overlaydiv"]){
 
 前后对比：
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-WJ05iKo-20240718103605-wxl1wer.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-WJ05iKo-20240718103605-wxl1wer.png)​
 
 733 x 710
 
@@ -146,7 +137,7 @@ span:not([class="katex"]) :not([class="overlaydiv"]){
 ​
 ```
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-E65ybuY-20240718103605-pglc967.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-E65ybuY-20240718103605-pglc967.png)​
 
 ## 删除线
 
@@ -158,7 +149,7 @@ span:not([class="katex"]) :not([class="overlaydiv"]){
 ​
 ```
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-rCmLYaX-20240718103605-h9kyhdz.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-rCmLYaX-20240718103605-h9kyhdz.png)​
 
 ## 字体
 
@@ -176,7 +167,7 @@ body {
 
 英文使用 JetBrains 字体，中文使用更纱黑体，看起来效果很好。
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-YLg7M1G-20240718103605-ui84h9d.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-YLg7M1G-20240718103605-ui84h9d.png)​
 
 733 x 784
 
@@ -194,7 +185,7 @@ body {
 ​
 ```
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-VJpgrpK-20240718103605-gk3scxg.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-VJpgrpK-20240718103605-gk3scxg.png)​
 
 ## 行内代码
 
@@ -206,7 +197,7 @@ body {
 ​
 ```
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-x84M2xI-20240718103605-qtf60v3.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-x84M2xI-20240718103605-qtf60v3.png)​
 
 ## 图片
 
@@ -225,7 +216,7 @@ body {
 ​
 ```
 
-​![recording.gif](http://joinjonpic.s3.bitiful.net/2024/07/recording-5zSbb71-20240718103605-mdlpcl4.gif)​
+![recording.gif](http://joinjonpic.s3.bitiful.net/2024/07/recording-5zSbb71-20240718103605-mdlpcl4.gif)​
 
 535 x 475
 
@@ -247,7 +238,7 @@ body {
 ​
 ```
 
-​![recording.gif](http://joinjonpic.s3.bitiful.net/2024/07/recording-eCPIT6j-20240718103605-5y259tk.gif)​
+![recording.gif](http://joinjonpic.s3.bitiful.net/2024/07/recording-eCPIT6j-20240718103605-5y259tk.gif)​
 
 733 x 503
 
@@ -274,7 +265,7 @@ body {
 ​
 ```
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-Ro2dILc-20240718103605-2ieypr6.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-Ro2dILc-20240718103605-2ieypr6.png)​
 
 ## 引用块
 
@@ -302,7 +293,7 @@ body {
 ​
 ```
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-9uGROAf-20240718103605-n6wj4yc.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-9uGROAf-20240718103605-n6wj4yc.png)​
 
 ## 引述（\> ）块
 
@@ -316,7 +307,7 @@ body {
 ​
 ```
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-8c3F5MB-20240718103605-00po2pv.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-8c3F5MB-20240718103605-00po2pv.png)​
 
 733 x 131
 
@@ -335,7 +326,7 @@ body {
 ​
 ```
 
-​![recording.gif](http://joinjonpic.s3.bitiful.net/2024/07/recording-t5qrNFD-20240718103605-f73yjah.gif)​
+![recording.gif](http://joinjonpic.s3.bitiful.net/2024/07/recording-t5qrNFD-20240718103605-f73yjah.gif)​
 
 733 x 218
 
@@ -360,7 +351,7 @@ body {
 
 最终效果：
 
-​![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-VtOmzUu-20240718103605-uqmbhgp.png)​
+![图片.png](http://joinjonpic.s3.bitiful.net/2024/07/%E5%9B%BE%E7%89%87-VtOmzUu-20240718103605-uqmbhgp.png)​
 
 733 x 796
 
